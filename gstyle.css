@@ -89,7 +89,7 @@ body {
     flex-direction: column;
     justify-content: center; /* Menjaga konten tetap di tengah secara vertikal */
     align-items: center;     /* Menjaga konten tetap di tengah secara horizontal */
-    height: 20vh;            /* Memberikan ruang sekitar 20% di bagian atas */
+    height: 100vh;            /* Memberikan ruang sekitar 20% di bagian atas */
     /* padding-top: 20%;        Memberi spasi sekitar 20% di bagian atas */
 }
 
